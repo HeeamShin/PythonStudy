@@ -1,2 +1,7 @@
 # PythonStudy
-HGP
+
+Study HGP.
+
+## Objective
+
+- Try every example in the book.
